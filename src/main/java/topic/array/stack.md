@@ -1,4 +1,4 @@
-# Stack in Python
+# Stack
 
 ## 1. Introduction to Stack
 A **stack** is a linear data structure that follows the **LIFO (Last In, First Out)** principle.
